@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm [Kapil Owal](https://github.com/kapilowal) :wave:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0464a4)](https://www.linkedin.com/in/kapil-owal/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0464a4)](https://www.instagram.com/kapilowal/)
+
+[![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilowal&hide=contribs&hide_border=true&show_icons=true)](https://github.com/kapilowal/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&layout=compact)](https://github.com/kapilowal/github-readme-stats)
 
 <!--
 **kapilowal/kapilowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
