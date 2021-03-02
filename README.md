@@ -7,16 +7,18 @@
 <details>
   <summary>Languages</summary>
   
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
+  
 </details>
 
 <details>
   <summary>Frameworks</summary>
   
-  ![](https://img.shields.io/badge/Code-Django-informational?style=flat-square&logo=django&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
 </details>
 
