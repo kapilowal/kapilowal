@@ -1,9 +1,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0464a4)](https://www.linkedin.com/in/kapil-owal/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0464a4)](https://www.instagram.com/kapilowal/)
 
-### Hi there, I'm [Kapil Owal](https://github.com/kapilowal) :wave:
+### Hi there! :wave:
 
-I'm a Freelance Full Stack Developer based in Mumbai, India. I love to design & code functional responsive websites based on extensive UX research, visually appealing UI's and strong back-end functionalities.
+I'm Kapil Owal, a Freelance Full-Stack Developer based in Mumbai, India. I design & code websites based on extensive UX research, visually appealing UI's and strong back-end functionalities.
 
 I'm available for freelancing and remote positions. Connect to hire me.
 
