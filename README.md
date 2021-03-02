@@ -1,9 +1,12 @@
-#### Hi there! :wave:
+### :wave: Hi there!
 
 - I'm Kapil Owal, a Freelance Full-Stack Developer based in Mumbai, India.
 - I love to design & code websites based on extensive UX research, visually appealing UI's and strong back-end functionalities.
+<hr style="border: 0; border-top: 1px solid #8c8c8c; border-bottom: 1px solid #fff;">
 
+### :bar_chart: Github Stats
 [![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilowal&hide=contribs&hide_border=true&show_icons=true)](https://github.com/kapilowal/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&layout=compact&hide_border=true)](https://github.com/kapilowal/github-readme-stats)
+
 
 
 <!--
