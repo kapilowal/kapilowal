@@ -1,24 +1,25 @@
-### :wave: Hi there!
+### Hi there!
 
 - I'm Kapil Owal, a Freelance Full-Stack Developer based in Mumbai, India.
 - I love to design & code websites based on extensive UX research, visually appealing UI's and strong back-end functionalities.
 
-## :briefcase: My Skills
+## My Skills
 <details>
   <summary>Languages</summary>
   
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=343434)
+  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=343434)
+  ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=343434)
+  ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=343434)
   
 </details>
 
 <details>
   <summary>Frameworks</summary>
   
-  ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=343434)
+  ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=343434)
+  ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=343434)
 
 </details>
 
