@@ -65,7 +65,7 @@ Hi there!
 </a>
 
 <a href="https://github.com/kapilowal">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kapilowal&show_icons=true&line_height=26&count_private=true&hide_border=true&theme=radical" alt="Kapil's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kapilowal&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=radical" alt="Kapil's GitHub Stats" />
 </a>
 
 
