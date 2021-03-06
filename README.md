@@ -60,10 +60,13 @@ Hi there!
 </details>
 
 ## :chart_with_upwards_trend: Github Stats
-[![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilowal&hide=contribs&hide_border=true&show_icons=true&theme=radical)](https://github.com/kapilowal/github-readme-stats)
+<a href="https://github.com/kapilowal">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&langs_count=3&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&hide_border=true&theme=radical)](https://github.com/kapilowal/github-readme-stats)
-
+<a href="https://github.com/kapilowal">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kapilowal&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Kapil's GitHub Stats" />
+</a>
 
 
 <!--
