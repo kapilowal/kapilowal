@@ -61,11 +61,11 @@ Hi there!
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/kapilowal">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&langs_count=3&hide_border=true&theme=gruvbox" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilowal&langs_count=3&hide_border=true&theme=cobalt" />
 </a>
 
 <a href="https://github.com/kapilowal">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kapilowal&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=gruvbox" alt="Kapil's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kapilowal&show_icons=true&line_height=27&count_private=true&hide_border=true&theme=cobalt" alt="Kapil's GitHub Stats" />
 </a>
 
 
